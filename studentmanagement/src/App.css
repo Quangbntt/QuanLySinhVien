@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+.container-fluid h1{
+  text-align: center;
+
+}
+.taskform p{
+  text-align: center;
+}
+.taskform button  {
+  width: 100px;
+  padding: 5px;
+  margin-left: 5px;
+}
+.taskform span{
+  float:right;
+}
+.mt-15{
+  margin-top: 15px;
+}
+.mb-15{
+  margin-bottom: 15px;
+}
+.table th{
+  text-align: center;
+}
+.ml-5{
+  margin-left: 1em !important;
+}
+.table td{
+  text-align: center;
+}
+.taskform span:hover{
+  color: red;
+  cursor: pointer;
+}
